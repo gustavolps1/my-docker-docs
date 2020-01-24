@@ -22,7 +22,7 @@ sudo apt update
 ```sh 
 sudo apt install docker.io ```
 ```
-#### Se tudo deu certo
+#### Testando a instalação do docker
 
 ```sh 
 docker --version 
