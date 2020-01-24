@@ -141,19 +141,11 @@ show databases;
 
 ## Referências
 
-> Node JS Mysql e Docker
+> Node JS Mysql e Docker https://www.youtube.com/watch?v=frK8xb3kgeM
 
-https://www.youtube.com/watch?v=frK8xb3kgeM
+> Como Instalar o Docker e Docker Compose Ubuntu 18.04 https://www.youtube.com/watch?v=bpbcu36t7g0
 
-
-> Como Instalar o Docker e Docker Compose Ubuntu 18.04
-
-https://www.youtube.com/watch?v=bpbcu36t7g0
-
-
-> How To Create And Test MySQL Database Server in Docker On Ubuntu Linux 
-
-https://www.youtube.com/watch?v=w_aVnMmrASE
+> How To Create And Test MySQL Database Server in Docker On Ubuntu Linux https://www.youtube.com/watch?v=w_aVnMmrASE
 
 
 
