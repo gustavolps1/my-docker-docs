@@ -72,7 +72,9 @@ Pronto agora você não precisa mais ficar inserindo **sudo** na frente dos coma
 ## 4. Instalando o container MySQL no Docker
 
 > Nome do container:  nome-container
+
 > Senha MySQL: 123123
+
 > Porta MySQL: 3306
 
 Copie e cole no terminal de comando
