@@ -2,11 +2,11 @@
 
 ## Links
 
-> MySQL Container: https://hub.docker.com/_/mysql
+  MySQL Container: https://hub.docker.com/_/mysql
 
-> Ultima versão Docker Compose: https://docs.docker.com/compose/install/
+  Ultima versão Docker Compose: https://docs.docker.com/compose/install/
 
-> Versões Docker Compose:  https://github.com/docker/compose/releases
+  Versões Docker Compose:  https://github.com/docker/compose/releases
 
 
 ## Instalando Docker
