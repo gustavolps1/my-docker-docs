@@ -139,7 +139,21 @@ show databases;
 
 >  Versões Docker Compose:  https://github.com/docker/compose/releases
 
+## Referências
 
+> Node JS Mysql e Docker
+```sh
+https://www.youtube.com/watch?v=frK8xb3kgeM
+```
 
+> Como Instalar o Docker e Docker Compose Ubuntu 18.04
+```sh 
+https://www.youtube.com/watch?v=bpbcu36t7g0
+```
+
+> How To Create And Test MySQL Database Server in Docker On Ubuntu Linux 
+```sh
+https://www.youtube.com/watch?v=w_aVnMmrASE
+```
 
 
