@@ -1,4 +1,4 @@
-## MYSQL COM DOCKER E DOCKER COMPOSE NO UBUNTU 18.04
+## DOCKER E DOCKER COMPOSE COM MYSQL E POSTGRESQL NO UBUNTU 18.04
 
 > Tutorial referente as instalações das ferramentas Docker e Docker Compose utilizando o container MySQL
 
