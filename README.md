@@ -47,7 +47,11 @@ Alterando permissões
 sudo chmod +x /usr/local/bin/docker-compose
 ```
 
-Testando
+Testando o docker-compose
+
+```sh 
+sudo docker-compose --version
+```
 
 ## 3. Adicionando o usuário ubuntu ao grupo docker
 Para utilização dos comandos docker sem a necessidade de iniciar a linha de comando com a keyword **sudo**
