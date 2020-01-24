@@ -9,7 +9,7 @@
 >  Versões Docker Compose:  https://github.com/docker/compose/releases
 
 
-## Instalando Docker
+## Instalando o Docker
 
  Certifique-se do apt estar atualizado
 
@@ -29,7 +29,7 @@ sudo apt install docker.io ```
 docker --version 
 ```
 
-##  Instalando Docker Compose
+##  Instalando o Docker Compose
 
  Certifique-se do apt estar atualizado
 
