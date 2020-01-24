@@ -115,7 +115,7 @@ Primeiramente certifique-se que seu container MySQL esteja rodando
 docker ps
 ```
 
-Iniciando o MySQL 
+Executando o container MySQL 
 
 ```sh 
 docker exec -it nome-container bash 
