@@ -92,7 +92,7 @@ Pronto, agora você tem um container rodando o MySQL
 docker ps
 ```
 
-Por algum motivo caso o container não seja rodando utilize
+Por algum motivo caso o container não esteja rodando utilize
 
 ```sh 
 docker ps -l
